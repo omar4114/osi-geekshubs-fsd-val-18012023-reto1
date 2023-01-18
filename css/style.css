@@ -1,0 +1,26 @@
+table {
+    border: solid blue 1px; 
+    border: outset;
+}
+
+th {
+    border: solid blue 1px;
+    background-color: green;
+}
+
+td {
+    border: solid blue 1px;
+    background-color: aquamarine;
+}
+
+.SegundaFila {
+    background-color: aqua;
+}
+
+.contenido {
+    text-align: center;
+}
+
+.separacion {
+    padding-right: 50px;
+}
